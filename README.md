@@ -29,7 +29,9 @@ The system provides a predictive form, an interactive dashboard, and an assistan
 - Jupyter Notebook
 
 📦 How to Clone and Run
+
 git clone https://github.com/ahmed7rafat/healthcare_predictive_analytics.git
+
 cd healthcare_predictive_analytics
 
 pip install pandas scikit-learn mlxtend flask plotly
