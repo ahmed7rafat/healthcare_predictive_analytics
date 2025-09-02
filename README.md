@@ -35,22 +35,17 @@ healthcare_predictive_analytics/
 - Flask, Dash, Plotly
 - Jupyter Notebook
 
-📦 How to Clone and Run  
+📦 How to Clone and Run
 
 ```bash
 # Clone the repository
 git clone https://github.com/ahmed7rafat/healthcare_predictive_analytics.git
-
 # Navigate into the project folder
 cd healthcare_predictive_analytics
-
 # Install dependencies
 pip install pandas scikit-learn mlxtend flask plotly
-
 # Run the Flask app
 python app.py
-
-
 
 📚 Notebooks
 - f1project.ipynb → EDA and ML model for stroke prediction
