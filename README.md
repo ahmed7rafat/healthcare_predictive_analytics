@@ -35,7 +35,7 @@ healthcare_predictive_analytics/
 - Flask, Dash, Plotly
 - Jupyter Notebook
 
-## 📦 How to Clone and Run  
+📦 How to Clone and Run  
 
 ```bash
 # Clone the repository
